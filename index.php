@@ -59,7 +59,6 @@ include "app.php";
             <input type="hidden" name="action" value="create"><br>
             <button type="submit" name="save">Save</button><br>
         </form>
-      <h2>Books</h2>
         <h2>Books</h2>
         <table>
             <thead>
